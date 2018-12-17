@@ -1,7 +1,7 @@
 # PinballZero
 Pi Zero As A Pinball Human Interface Device
 
-#References:
+# References:
 pi zero as an HID
 https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/
 
